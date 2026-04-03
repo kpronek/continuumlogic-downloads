@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/partner-funnel-model", "destination": "/partner-funnel-model/index.html" }
+  ]
+}
